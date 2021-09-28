@@ -1,0 +1,2 @@
+﻿Step 1:
+		Make and get player 1 on the screen and get him movable on the x axis smoothly

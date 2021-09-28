@@ -1,0 +1,30 @@
+E:\Visual Studio Projects\General C#\Brick Breaker 2\bin\Debug\Brick Breaker 2.exe.config
+E:\Visual Studio Projects\General C#\Brick Breaker 2\bin\Debug\Brick Breaker 2.exe
+E:\Visual Studio Projects\General C#\Brick Breaker 2\bin\Debug\Brick Breaker 2.pdb
+E:\Visual Studio Projects\General C#\Brick Breaker 2\obj\Debug\Brick Breaker 2.csprojAssemblyReference.cache
+E:\Visual Studio Projects\General C#\Brick Breaker 2\obj\Debug\Brick_Breaker_2.FrmBrickBreaker.resources
+E:\Visual Studio Projects\General C#\Brick Breaker 2\obj\Debug\Brick_Breaker_2.Properties.Resources.resources
+E:\Visual Studio Projects\General C#\Brick Breaker 2\obj\Debug\Brick Breaker 2.csproj.GenerateResource.cache
+E:\Visual Studio Projects\General C#\Brick Breaker 2\obj\Debug\Brick Breaker 2.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\General C#\Brick Breaker 2\obj\Debug\Brick Breaker 2.exe
+E:\Visual Studio Projects\General C#\Brick Breaker 2\obj\Debug\Brick Breaker 2.pdb
+E:\C# Projects\General C#\Brick Breaker 2\bin\Debug\Brick Breaker 2.exe.config
+E:\C# Projects\General C#\Brick Breaker 2\bin\Debug\Brick Breaker 2.exe
+E:\C# Projects\General C#\Brick Breaker 2\bin\Debug\Brick Breaker 2.pdb
+E:\C# Projects\General C#\Brick Breaker 2\obj\Debug\Brick Breaker 2.csproj.AssemblyReference.cache
+E:\C# Projects\General C#\Brick Breaker 2\obj\Debug\Brick_Breaker_2.FrmBrickBreaker.resources
+E:\C# Projects\General C#\Brick Breaker 2\obj\Debug\Brick_Breaker_2.Properties.Resources.resources
+E:\C# Projects\General C#\Brick Breaker 2\obj\Debug\Brick Breaker 2.csproj.GenerateResource.cache
+E:\C# Projects\General C#\Brick Breaker 2\obj\Debug\Brick Breaker 2.csproj.CoreCompileInputs.cache
+E:\C# Projects\General C#\Brick Breaker 2\obj\Debug\Brick Breaker 2.exe
+E:\C# Projects\General C#\Brick Breaker 2\obj\Debug\Brick Breaker 2.pdb
+E:\C# Projects\General C#\Brick Breaker 2 Player Pong\bin\Debug\Brick Breaker 2.exe.config
+E:\C# Projects\General C#\Brick Breaker 2 Player Pong\bin\Debug\Brick Breaker 2.exe
+E:\C# Projects\General C#\Brick Breaker 2 Player Pong\bin\Debug\Brick Breaker 2.pdb
+E:\C# Projects\General C#\Brick Breaker 2 Player Pong\obj\Debug\Brick Breaker 2.csproj.AssemblyReference.cache
+E:\C# Projects\General C#\Brick Breaker 2 Player Pong\obj\Debug\Brick_Breaker_2.FrmBrickBreaker.resources
+E:\C# Projects\General C#\Brick Breaker 2 Player Pong\obj\Debug\Brick_Breaker_2.Properties.Resources.resources
+E:\C# Projects\General C#\Brick Breaker 2 Player Pong\obj\Debug\Brick Breaker 2.csproj.GenerateResource.cache
+E:\C# Projects\General C#\Brick Breaker 2 Player Pong\obj\Debug\Brick Breaker 2.csproj.CoreCompileInputs.cache
+E:\C# Projects\General C#\Brick Breaker 2 Player Pong\obj\Debug\Brick Breaker 2.exe
+E:\C# Projects\General C#\Brick Breaker 2 Player Pong\obj\Debug\Brick Breaker 2.pdb
